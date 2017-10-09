@@ -1,5 +1,5 @@
 # TERM 3: SHAREBOOK PROJECT IN REACT AND NODE
-![alt-text](logo2.jpg)
+![alt-text](images/logo2.jpg)
 
 ## PROJECT OVERVIEW
   During the last term, we were tasked to make an app using React and Node that would help address the society's main concerns. We called our app SHAREBOOK, which stemmed from the word "share" and "book" because this app is all about sharing books that can still be used by other people. This features the ability to post books, specific genres, title, authors and number of pieces. 
@@ -55,4 +55,3 @@ my-app/
 
 * https://psa.gov.ph/content/out-school-children-and-youth-philippines-results-2013-functional-literacy-education-and
 * http://www.savethechildren.org.ph/our-work/the-challenges/education
-* 
